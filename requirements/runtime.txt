@@ -1,0 +1,7 @@
+# CUDA izdanje PyTorcha instalira postavi_okruzenje.cmd prije ovih ovisnosti.
+-c locked-windows-py312.txt
+numpy==2.5.2
+scipy==1.18.1
+sounddevice==0.5.6
+openai-whisper==20250625
+pyannote.audio==4.0.7

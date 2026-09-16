@@ -1,0 +1,33 @@
+# NETOČNO,TOČNO - zapis primjećenih krivih riječi
+dovolji,dovodi
+Dovolji,Dovodi
+izna,iznad
+Izna,Iznad
+ne mam,nemam
+Ne mam,Nemam
+oparavak,oporavak
+Oparavak,Oporavak
+otiženo,otežano
+Otiženo,Otežano
+pluča,pluća
+Pluča,Pluća
+podmor,odmor
+Podmor,Odmor
+symptoma,simptoma
+Symptoma,Simptoma
+symptomi,simptomi
+Symptomi,Simptomi
+tijekućine,tekućine
+Tijekućine,Tekućine
+virusno,virusnoj
+Virusno,Virusnoj
+pogošava,pogoršava
+Pogošava,Pogoršava
+vjeratno,vjerojatno
+Vjeratno,Vjerojatno
+na veće,navečer
+Na veće,Navečer
+ja kašalj,jak kašalj
+Ja kašalj,Jak kašalj
+osjećam humor,osjećam umor
+Osjećam humor,Osjećam umor

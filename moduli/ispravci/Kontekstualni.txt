@@ -1,0 +1,9 @@
+# NETOČNO,TOČNO - ručno potvrđene fraze ovisne o kontekstu
+ja kašalj,jak kašalj
+Ja kašalj,Jak kašalj
+grlo bolje,grlobolju
+Grlo bolje,Grlobolju
+osjećam humor,osjećam umor
+Osjećam humor,Osjećam umor
+ako simptomi pogoršaju,ako se simptomi pogoršaju
+Ako simptomi pogoršaju,Ako se simptomi pogoršaju

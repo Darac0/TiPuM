@@ -1,0 +1,17 @@
+# NETOČNO,TOČNO - svi oblici za zamjenicu Vi
+vi,Vi
+vas,Vas
+vam,Vam
+vama,Vama
+vaš,Vaš
+vaša,Vaša
+vaše,Vaše
+vaši,Vaši
+vašeg,Vašeg
+vašega,Vašega
+vaših,Vaših
+vašem,Vašem
+vašoj,Vašoj
+vašim,Vašim
+vašu,Vašu
+vašom,Vašom
