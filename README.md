@@ -52,8 +52,8 @@ Provjere se pokreću naredbom `..\development\testiraj.cmd`.
 |---|---|
 | `moduli/` | Kod aplikacije |
 | `recordings/` | Ulazne WAV snimke |
-| `../output/app/<broj>_snimka/` | Izlazi i povijest jedne obrade, izvan aplikacije |
-| `../development/tests/` | Testovi |
+| `../output/<broj>_snimka/` | Izlazi i povijest jedne obrade |
+| `../development/tests/` | Testne snimke |
 | `docs/` | Korisničke upute |
 | `requirements/` | Python ovisnosti |
 | `tools/` | Qwen model i `llama.cpp` |
