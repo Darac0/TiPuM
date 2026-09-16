@@ -1,0 +1,13 @@
+LIJEČNIK: Dobar dan, što Vas dovodi danas?
+PACIJENT: Dobar dan, već nekoliko dana imam temperaturu i jak kašalj.
+LIJEČNIK: Imate li još kakvih simptoma? Grlobolju, otežano disanje ili bolove?
+PACIJENT: Grlo me malo boli i osjećam umor, ali nemam problema s disanjem.
+LIJEČNIK: Koliko dugo traje temperatura?
+PACIJENT: Oko tri dana, uglavnom na večer poraste iznad 38.
+LIJEČNIK: Dobro, poslušat ću pluća i pogledati grlo.
+PACIJENT: U redu.
+LIJEČNIK: Pluća zvuče uredno, ali grlo je crveno. Vjerojatno se radi o virusnoj infekciji. Preporučujem odmor, puno tekućine i lijek za snižavanje temperature.
+PACIJENT: Trebam li antibiotike?
+LIJEČNIK: Trenutno ne. Ako se simptomi pogoršaju ili temperatura potraje dulje od nekoliko dana, javite se ponovo.
+PACIJENT: Hvala Vam.
+LIJEČNIK: Nema na čemu. Želim Vam brz oporavak.

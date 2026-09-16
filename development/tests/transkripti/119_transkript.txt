@@ -1,0 +1,12 @@
+LIJEČNIK: Koliko dugo imate poteškoće sa spavanjem?
+PACIJENT: Oko dva mjeseca teško zaspim i budim se prerano.
+LIJEČNIK: Kako se tijekom dana osjećate i funkcionirate?
+PACIJENT: Umoran sam, teško se koncentriram i ništa me posebno ne veseli.
+LIJEČNIK: Jeste li pomislili da biste si mogli nauditi?
+PACIJENT: Ne, nisam imao takve misli.
+LIJEČNIK: Važno je da to pratimo i razgovaramo otvoreno.
+PACIJENT: Volio bih prvo pokušati bez tableta za spavanje.
+LIJEČNIK: Dogovorit ćemo razgovor s psihologom i urediti navike spavanja.
+PACIJENT: Navečer često dugo gledam u telefon.
+LIJEČNIK: Pokušajte ugasiti zaslone jedan sat prije odlaska u krevet.
+PACIJENT: U redu, pokušat ću i doći na kontrolu.

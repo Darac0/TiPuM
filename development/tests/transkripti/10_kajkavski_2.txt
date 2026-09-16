@@ -1,0 +1,21 @@
+Liječnik: Dobar dan. Kako je nastala ozljeda?
+Pacijent: Dobar den. Jučer sam na gruntu krivo stal i izvrnul levi gležanj.
+Liječnik: Jeste li odmah mogli stati na nogu?
+Pacijent: Mogel sam, al jedva. Odma je nateklo, a sad me boli dok napravim par korakov.
+Liječnik: Jeste li čuli pucketanje ili osjetili da je zglob iskočio?
+Pacijent: Čul sam kak je nekaj krcnulo, ali zglob ni iskočil.
+Liječnik: Jeste li ranije ozlijedili isti gležanj?
+Pacijent: Nisam ga prije zvrnul. Ovo mi je prvi put da je tak jako natekel.
+Liječnik: Sada ću pregledati opseg pokreta i bolna mjesta.
+Pacijent: Dobro, samo me jako zaboli kad stopalo okrenete prema nutra.
+Liječnik: U nalazu se bilježe oedema oko malleolus lateralis, uz bolan i ograničen motus.
+Pacijent: Je li možda pukla kost?
+Liječnik: U ovom testnom scenariju rendgenska snimka ne pokazuje fractura. Nalaz odgovara distorsio articulationis talocruralis.
+Pacijent: Kaj moram doma delati da se to smiri?
+Liječnik: Prema scenariju preporučuje se mirovanje, hlađenje preko tkanine, elastični zavoj i držanje noge u povišenom položaju.
+Pacijent: Smijem uzeti naproksen i namazati gel?
+Liječnik: Ako nema kontraindikacija, u scenariju se navodi naproksen od dvjesto pedeset miligrama nakon obroka te gel s diklofenakom bis in die na neoštećenu kožu.
+Pacijent: Kad bum mogel normalno stati na nogu?
+Liječnik: Opterećenje povećavajte postupno prema boli. Ako nakon nekoliko dana ne možete učiniti četiri koraka ili se oteklina povećava, potrebna je kontrola.
+Pacijent: Dobro, bum pazil. Hvala Vam, doviđenja.
+Liječnik: Doviđenja.

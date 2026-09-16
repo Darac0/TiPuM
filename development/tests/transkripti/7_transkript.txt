@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Javljaju li se još epizode ubrzanog ili nepravilnog rada srca?
+PACIJENT: Da. Palpitacije se pojave dva do tri puta tjedno i obično traju deset do petnaest minuta.
+LIJEČNIK: Prate li ih bol u prsima, dispneja, sinkopa, ortopneja ili periferni edemi?
+PACIJENT: Ponekad osjećam blagu zaduhu pri naporu, ali nemam bol u prsima, nesvjesticu ni oticanje nogu.
+LIJEČNIK: Zbog paroksizmalne fibrilacije atrija propisani su Vam apiksaban od pet miligrama dva puta dnevno i bisoprolol od dva i pol miligrama jednom dnevno.
+PACIJENT: Terapiju uzimam redovito, ali sam prošli tjedan zaboravio jednu večernju dozu apiksabana.
+LIJEČNIK: Jeste li primijetili epistaksu, hematuriju, hematemezu, melenu ili neuobičajene hematome?
+PACIJENT: Jednom mi je kratko krvarilo iz nosa, ali nisam imao krv u mokraći, crnu stolicu ni povraćanje krvi.
+LIJEČNIK: Uzimate li acetilsalicilatnu kiselinu, ibuprofen, ketoprofen ili neki drugi nesteroidni protuupalni lijek?
+PACIJENT: Ne uzimam ništa od toga. Za povremenu glavobolju koristim samo paracetamol od petsto miligrama.
+LIJEČNIK: Kreatinin iznosi devedeset osam mikromola po litri, procijenjena glomerularna filtracija sedamdeset dva, hemoglobin sto četrdeset dva grama po litri, a trombociti dvjesto trideset osam puta deset na devetu po litri.
+PACIJENT: Znači li to da su bubrežna funkcija, hemoglobin i broj trombocita prihvatljivi za nastavak terapije?
+LIJEČNIK: Trenutačni nalazi su stabilni. TSH iznosi dva cijela jedan, a slobodni T4 nalazi se unutar referentnog raspona.
+PACIJENT: Što je pokazao elektrokardiogram i ultrazvuk srca?
+LIJEČNIK: Elektrokardiogram pokazuje sinusni ritam od šezdeset dva otkucaja u minuti. Ejekcijska frakcija lijeve klijetke iznosi pedeset osam posto, lijevi atrij je blago dilatiran, a značajna valvularna bolest nije pronađena.
+PACIJENT: Može li se fibrilacija atrija ipak pojaviti iako je današnji elektrokardiogram uredan?
+LIJEČNIK: Može. Zato ćemo učiniti dvadesetčetverosatni Holter EKG. Antikoagulantna terapija smanjuje rizik tromboembolije, a kod učestalih simptoma možemo razmotriti katetersku ablaciju.
+PACIJENT: Razumijem. Odmah ću se javiti ako se pojave jaka bol u prsima, gubitak svijesti, otežan govor ili slabost jedne strane tijela.

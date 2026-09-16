@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Recite mi gdje Vas boli i kada je bol počela.
+PACIJENT: Dobar dan. Boli me donji dio leđa od jučer poslijepodne.
+LIJEČNIK: Je li se nešto posebno dogodilo prije pojave boli?
+PACIJENT: Premještao sam kutije u podrumu i podignuo jednu tešku kutiju bez pomoći.
+LIJEČNIK: Širi li se bol niz nogu ili ostaje samo u leđima?
+PACIJENT: Ostaje u leđima. Ne osjećam trnce, slabost ni utrnulost u nogama.
+LIJEČNIK: Imate li problema s mokrenjem, gubitkom kontrole ili povišenu temperaturu?
+PACIJENT: Ne, ništa od toga. Temperatura mi je normalna.
+LIJEČNIK: Koliko je bol jaka na ljestvici od nula do deset?
+PACIJENT: Kada mirujem oko četiri, a pri saginjanju poraste na sedam.
+LIJEČNIK: Jeste li uzeli kakav lijek protiv bolova?
+PACIJENT: Sinoć sam uzeo jednu tabletu ibuprofena od četiristo miligrama i malo mi je pomogla.
+LIJEČNIK: Pregled ne pokazuje znakove oštećenja živca. Najvjerojatnije je riječ o istegnuću mišića.
+PACIJENT: Trebam li potpuno mirovati nekoliko dana?
+LIJEČNIK: Ne. Lagano se krećite, izbjegavajte dizanje tereta i nemojte dugo ostajati u istom položaju.
+PACIJENT: Kada se trebam ponovno javiti?
+LIJEČNIK: Odmah ako se pojave slabost noge, utrnulost, problemi s mokrenjem ili jaka bol koja se pogoršava.
+PACIJENT: Razumijem. Hvala Vam.

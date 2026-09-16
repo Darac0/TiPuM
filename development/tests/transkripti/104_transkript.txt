@@ -1,0 +1,12 @@
+LIJEČNIK: Koje tegobe imate pri mokrenju?
+PACIJENT: Peče me i moram mokriti gotovo svakih pola sata.
+LIJEČNIK: Imate li temperaturu, zimicu ili bol u slabinama?
+PACIJENT: Nemam temperaturu, ali osjećam pritisak u donjem dijelu trbuha.
+LIJEČNIK: Koliko dugo traju simptomi?
+PACIJENT: Počeli su jučer ujutro i danas su jači.
+LIJEČNIK: Napravit ćemo pregled urina i urinokulturu prije terapije.
+PACIJENT: Mogu li odmah dobiti nešto protiv bolova?
+LIJEČNIK: Možete uzeti paracetamol i povećati unos vode.
+PACIJENT: Što ako se večeras pojavi visoka temperatura?
+LIJEČNIK: Kod temperature ili boli u slabinama javite se hitno.
+PACIJENT: Razumijem. Odmah ću dati uzorak urina.

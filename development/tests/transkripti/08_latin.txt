@@ -1,0 +1,27 @@
+Liječnik: Dobar dan. Što Vas je dovelo na pregled?
+Pacijent: Dobar dan. Nakon plivanja mi je desno uho začepljeno i na tu stranu slabije čujem.
+Liječnik: Koliko dugo traju tegobe i osjećate li svrbež ili iscjedak iz uha?
+Pacijent: Tegobe traju tri dana. Uho me svrbi, a jutros sam primijetio malu količinu prozirnog iscjetka.
+Liječnik: Imate li zujanje u uhu ili osjećaj vrtoglavice?
+Pacijent: Povremeno čujem tiho zujanje, ali nemam vrtoglavicu ni gubitak ravnoteže.
+Liječnik: Jeste li nakon plivanja čistili uho štapićem ili nekim drugim predmetom?
+Pacijent: Jesam. Pokušao sam ga osušiti štapićem za uši.
+Liječnik: Jeste li stavljali kapi u uho ili uzeli lijek protiv boli?
+Pacijent: Nisam stavljao kapi. Sinoć sam uzeo ibuprofen od dvjesto miligrama.
+Liječnik: Sada ću pregledati oba uha i nalaz zabilježiti u dijelu status localis.
+Pacijent: U redu.
+Liječnik: U području meatus acusticus externus desnog uha vidi se crvenilo i blaga oteklina.
+Pacijent: Je li bubnjić oštećen?
+Liječnik: Ne. Membrana tympani je vidljiva i u ovom testnom scenariju izgleda očuvano.
+Pacijent: Znači li nalaz da imam upalu vanjskog uha?
+Liječnik: Da. U zapisu ćemo navesti otitis externa auris dextra, odnosno upalu vanjskog zvukovoda desnog uha.
+Pacijent: Trebam li koristiti antibiotske kapi?
+Liječnik: U ovom izmišljenom scenariju propisuje se ciprofloksacin u kapima: tri kapi ter in die tijekom sedam dana.
+Pacijent: Kako trebam pravilno primijeniti kapi?
+Liječnik: Glavu treba nagnuti tako da je auris dextra okrenuta prema gore. Pripravak je ad usum externum i ne smije se progutati.
+Pacijent: Trebam li tijekom liječenja izbjegavati plivanje?
+Liječnik: Da. Uho treba održavati suhim i u zvukovod ne treba umetati štapiće ni druge predmete.
+Liječnik: Raniji pregled potreban je ako se sluh naglo pogorša, pojavi se gusti iscjedak ili jaka vrtoglavica; inače se kontrola planira za sedam dana.
+Pacijent: U redu, hvala Vam. Doviđenja.
+Liječnik: Doviđenja.
+  

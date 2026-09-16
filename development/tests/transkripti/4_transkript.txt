@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Koje tegobe imate?
+PACIJENT: Od prekjučer osjećam pečenje pri mokrenju i moram vrlo često na zahod.
+LIJEČNIK: Izlazi li normalna količina mokraće ili samo mala količina?
+PACIJENT: Uglavnom samo mala količina, iako imam snažan osjećaj da moram mokriti.
+LIJEČNIK: Jeste li primijetili krv, neugodan miris ili zamućenu mokraću?
+PACIJENT: Mokraća je jutros bila mutnija nego inače, ali nisam vidjela krv.
+LIJEČNIK: Imate li temperaturu, zimicu, mučninu ili bol u slabinama?
+PACIJENT: Nemam temperaturu ni mučninu. Osjećam samo pritisak nisko u trbuhu.
+LIJEČNIK: Jeste li trudni ili postoji mogućnost trudnoće?
+PACIJENT: Ne, nema mogućnosti trudnoće.
+LIJEČNIK: Jeste li nedavno uzimali antibiotike i imate li alergiju na lijekove?
+PACIJENT: Nisam uzimala antibiotike više od godinu dana i nemam poznatih alergija.
+LIJEČNIK: Napravit ćemo pregled urina i urinokulturu prije početka liječenja.
+PACIJENT: Koliko se čeka rezultat urinokulture?
+LIJEČNIK: Najčešće dva do tri dana. Osnovni nalaz urina bit će dostupan ranije.
+PACIJENT: Mogu li do tada nešto učiniti da ublažim tegobe?
+LIJEČNIK: Pijte dovoljno tekućine. Ako dobijete temperaturu, bol u slabinama ili povraćate, javite se odmah.
+PACIJENT: Razumijem. Dat ću uzorak urina prije odlaska.

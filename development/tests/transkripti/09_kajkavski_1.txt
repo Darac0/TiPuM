@@ -1,0 +1,21 @@
+Liječnik: Dobar dan. Što Vas dovodi na pregled?
+Pacijent: Dobar den. Već kak dva tjedna furt kišem, nos mi curi, a oči me jako svrbe.
+Liječnik: Kada su tegobe najizraženije?
+Pacijent: Najhujše mi je dok sam vun, pogotovo kad se trava kosi ili kad puše veter.
+Liječnik: Kakav je iscjedak iz nosa?
+Pacijent: Bistar je, kak voda. Nos mi se začepi navečer, ali prek dana više curi.
+Liječnik: Jesu li oči crvene i suze li?
+Pacijent: Jesu. Peku me oči i suze, a najradije bi ih stalno trljal.
+Liječnik: Jeste li ranije imali slične sezonske tegobe i jeste li uzimali lek?
+Pacijent: Lani mi je doktor dal desloratadin i bilo mi je nekaj bolje.
+Liječnik: U ovom testnom scenariju nalaz odgovara dijagnozama rhinitis allergica i blaža conjunctivitis allergica.
+Pacijent: Znači, opet je sve od peluda?
+Liječnik: Tegobe se vremenski podudaraju s izloženošću peludu, ali za konačnu potvrdu može se učiniti alergološka obrada.
+Pacijent: Kak bum sad uzimal lijek?
+Liječnik: U scenariju se navodi desloratadin od pet miligrama semel in die te mometazon intra nasum prema propisanoj uputi.
+Pacijent: Sprej ide ravno prema sredini nosa ili malo na stranu?
+Liječnik: Mlaz treba usmjeriti prema vanjskoj stijenci nosnice, a ne prema nosnoj pregradi. Nakon primjene nemojte snažno udisati.
+Pacijent: Kaj da napravim ak se za tjedan dana ne popravi?
+Liječnik: Tada se javite na kontrolu. Ranije se javite ako nastanu otežano disanje, jaka oteklina ili smetnje vida.
+Pacijent: Razmem. Hvala Vam, doviđenja.
+Liječnik: Doviđenja.

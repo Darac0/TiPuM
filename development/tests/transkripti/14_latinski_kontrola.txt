@@ -1,0 +1,13 @@
+Liječnik: U nalazu se opisuje status localis.
+Liječnik: Pregledan je meatus acusticus externus.
+Liječnik: Membrana tympani izgleda očuvano.
+Liječnik: U scenariju se navodi otitis externa auris dextra.
+Liječnik: Potrebno je pregledati auris dextra.
+Liječnik: Kapi se primjenjuju ter in die.
+Liječnik: Pripravak je ad usum externum.
+Liječnik: Desno uho nije zatvoreno zaštitnim čepićem.
+Liječnik: Pacijent slabije čuje samo na jednoj strani.
+Liječnik: Nakon plivanja nije odmah osušio uho.
+Liječnik: Otopina se čuva u zatvorenoj bočici.
+Liječnik: Pacijent nije osjetio gubitak ravnoteže.
+Liječnik: Kontrolni pregled dogovoren je za sedam dana.

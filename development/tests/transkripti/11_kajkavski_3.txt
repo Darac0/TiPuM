@@ -1,0 +1,21 @@
+Liječnik: Dobar dan. Opišite tegobe koje osjećate.
+Pacijent: Dober den. Već tri tjedna me nakon jela peče v gornjem dijelu želuca i kiselina se vrača v grlo.
+Liječnik: U koje doba dana je najizraženije?
+Pacijent: Najhujše je navečer dok legnem. Onda me zna i po noći zbuditi.
+Liječnik: Imate li bolno ili otežano gutanje?
+Pacijent: Ne, gutanje ide normalno i nisam smršavil. Samo me ta kiselina jako smeta.
+Liječnik: Koliko kave pijete i kada obično večerate?
+Pacijent: Kavu pijem tri put na den, a večerjamo dosta kasno, nekad tek oko deset.
+Liječnik: Jeste li ranije uzimali lijek za smanjenje želučane kiseline?
+Pacijent: Pantoprazol sam jemal lani, ali ga sad više ne jemljem.
+Liječnik: U ovom testnom scenariju simptomi odgovaraju pojmovima refluxus gastrooesophagus i regurgitatio acida.
+Pacijent: Znači li to da je oesophagus nadražen?
+Liječnik: Može biti nadražen, ali razgovor sam po sebi ne može potvrditi oštećenje sluznice. Kod trajnih tegoba potrebna je daljnja obrada.
+Pacijent: Kak se pantoprazol pravilno pije?
+Liječnik: U scenariju se navodi pantoprazol od četrdeset miligrama ante cibum, a alginat nocte ako je tako propisano.
+Pacijent: Kolko prije doručka ga moram popiti?
+Liječnik: U ovom scenariju uzima se približno trideset minuta prije doručka. Također treba izbjegavati kasne obilne obroke.
+Pacijent: Bum probal ranije večerjati. Kad moram doći na kontrolu?
+Liječnik: Ako se tegobe ne smanje unutar dva tjedna ili nastanu otežano gutanje, krvarenje ili nenamjeran gubitak težine, javite se ranije.
+Pacijent: V redu. Hvala Vam, doviđenja.
+Liječnik: Doviđenja.

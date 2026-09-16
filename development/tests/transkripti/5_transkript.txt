@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Kako su se kretale vrijednosti šećera u posljednjih mjesec dana?
+PACIJENT: Ujutro natašte najčešće su između sedam i osam cijelih pet milimola po litri.
+LIJEČNIK: A kakve su vrijednosti dva sata nakon obroka?
+PACIJENT: Nekoliko puta bile su iznad deset, osobito nakon večere.
+LIJEČNIK: Današnji glikirani hemoglobin, odnosno HbA1c, iznosi sedam cijelih osam posto.
+PACIJENT: Je li to puno više od ciljne vrijednosti?
+LIJEČNIK: Nešto je iznad dogovorenog cilja. Uzimate li metformin od tisuću miligrama dva puta dnevno?
+PACIJENT: Uzimam ga nakon doručka i večere. Ponekad preskočim večernju dozu ako kasno dođem kući.
+LIJEČNIK: Imate li mučninu, proljev ili druge probavne smetnje?
+PACIJENT: Povremeno imam nadutost, ali nemam proljev.
+LIJEČNIK: Jeste li imali drhtavicu, hladan znoj, iznenadnu glad ili gubitak svijesti?
+PACIJENT: Nisam gubio svijest i nisam primijetio takve epizode.
+LIJEČNIK: Kako izgleda Vaša prehrana tijekom radnog dana?
+PACIJENT: Doručak je uredan, ali ručak često preskočim pa navečer pojedem prevelik obrok.
+LIJEČNIK: Pokušajte rasporediti obroke ravnomjernije i uključiti barem trideset minuta hodanja pet dana tjedno.
+PACIJENT: Trebam li češće mjeriti šećer?
+LIJEČNIK: Sljedeća dva tjedna mjerite natašte i povremeno dva sata nakon najvećeg obroka.
+PACIJENT: U redu. Zapisat ću vrijednosti i donijeti ih na kontrolu.

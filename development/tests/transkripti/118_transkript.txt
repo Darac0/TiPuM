@@ -1,0 +1,12 @@
+LIJEČNIK: Gdje je bol počela i kamo se širi?
+PACIJENT: Počela je u desnoj slabini i širi se prema preponi.
+LIJEČNIK: Je li bol stalna ili dolazi u valovima?
+PACIJENT: Dolazi u jakim valovima i ne mogu mirno sjediti.
+LIJEČNIK: Imate li temperaturu, povraćanje ili krv u mokraći?
+PACIJENT: Jednom sam povratio i primijetio ružičastu mokraću.
+LIJEČNIK: Ultrazvuk pokazuje kamenac od četiri milimetra bez zastoja mokraće.
+PACIJENT: Može li kamenac izaći bez operacije?
+LIJEČNIK: Kamenac te veličine često izađe spontano uz odgovarajuću terapiju.
+PACIJENT: Koliko vode trebam piti?
+LIJEČNIK: Pijte redovito, ali nemojte se prisiljavati tijekom najjače boli.
+PACIJENT: Javit ću se odmah ako dobijem temperaturu.

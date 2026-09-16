@@ -1,0 +1,12 @@
+LIJEČNIK: Opišite pečenje koje osjećate iza prsne kosti.
+PACIJENT: Najčešće se pojavi nakon obilne večere i kad legnem.
+LIJEČNIK: Vraća li Vam se kiseli sadržaj u usta?
+PACIJENT: Da, osobito nakon kave ili začinjene hrane.
+LIJEČNIK: Imate li otežano gutanje ili neželjeni gubitak težine?
+PACIJENT: Ne, gutam normalno i težina mi je ista.
+LIJEČNIK: Simptomi odgovaraju gastroezofagealnom refluksu bez upozoravajućih znakova.
+PACIJENT: Mogu li pokušati samo promijeniti prehranu?
+LIJEČNIK: Možete, uz manje obroke i bez lijeganja tri sata nakon jela.
+PACIJENT: Pokušat ću smanjiti kavu i kasne večere.
+LIJEČNIK: Ako tegobe ostanu, uvest ćemo inhibitor protonske pumpe.
+PACIJENT: U redu, pratit ću kada se simptomi pojavljuju.

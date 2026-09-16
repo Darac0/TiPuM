@@ -1,0 +1,12 @@
+LIJEČNIK: Dobar dan. Jeste li redovito mjerili krvni tlak kod kuće?
+PACIJENT: Jesam, najčešće je oko sto pedeset kroz devedeset pet.
+LIJEČNIK: Uzimajte li propisani ramipril svako jutro?
+PACIJENT: Ponekad zaboravim, možda dva puta tjedno.
+LIJEČNIK: Imate li glavobolju, zamućen vid ili pritisak u prsima?
+PACIJENT: Povremeno me boli zatiljak, ali nemam bol u prsima.
+LIJEČNIK: Današnji tlak iznosi sto četrdeset osam kroz devedeset dva.
+PACIJENT: Znači li to da trebam jaču dozu lijeka?
+LIJEČNIK: Prvo ćemo poboljšati redovitost terapije i smanjiti unos soli.
+PACIJENT: Vodit ću bilješke o jutarnjim i večernjim mjerenjima.
+LIJEČNIK: Dogovorimo kontrolu za četiri tjedna uz dnevnik tlaka.
+PACIJENT: Razumijem i pokušat ću ne preskakati terapiju.

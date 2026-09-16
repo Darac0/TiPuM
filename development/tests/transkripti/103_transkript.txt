@@ -1,0 +1,12 @@
+LIJEČNIK: Kako se kreću vrijednosti glukoze prije doručka?
+PACIJENT: Uglavnom su između sedam i devet milimola po litri.
+LIJEČNIK: Uzimajte li metformin petsto miligrama dva puta dnevno?
+PACIJENT: Da, uzimam ga nakon doručka i nakon večere.
+LIJEČNIK: Jeste li imali znojenje, drhtavicu ili naglu slabost?
+PACIJENT: Ne, nisam imao simptome niske razine šećera.
+LIJEČNIK: Glikirani hemoglobin iznosi sedam cijelih osam posto.
+PACIJENT: Je li ta vrijednost previsoka za mene?
+LIJEČNIK: Blago je povišena pa ćemo prvo prilagoditi prehranu i kretanje.
+PACIJENT: Mogu hodati pola sata nakon večere.
+LIJEČNIK: To je dobar početak. Ponovit ćemo nalaze za tri mjeseca.
+PACIJENT: U redu, nastavit ću redovito mjeriti glukozu.

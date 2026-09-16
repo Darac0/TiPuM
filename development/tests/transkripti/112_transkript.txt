@@ -1,0 +1,12 @@
+LIJEČNIK: Opišite bol u prsima i kada se pojavljuje.
+PACIJENT: Steže me u sredini prsa kad se penjem uz stepenice.
+LIJEČNIK: Širi li se bol u ruku, leđa ili čeljust?
+PACIJENT: Ponekad se proširi u lijevo rame i prestane nakon odmora.
+LIJEČNIK: Koliko obično traje jedna epizoda?
+PACIJENT: Oko pet minuta, možda malo dulje.
+LIJEČNIK: Takva bol može upućivati na smanjenu opskrbu srca krvlju.
+PACIJENT: Je li potrebno da odmah idem u bolnicu?
+LIJEČNIK: Da, potrebna je hitna procjena i elektrokardiogram.
+PACIJENT: Trenutačno me ne boli, ali zabrinut sam.
+LIJEČNIK: Nemojte sami voziti. Organizirat ćemo siguran prijevoz.
+PACIJENT: Razumijem i ostat ću ovdje dok prijevoz ne stigne.

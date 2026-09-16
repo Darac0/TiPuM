@@ -1,0 +1,12 @@
+LIJEČNIK: Jeste li primijetili krvarenje otkad uzimate varfarin?
+PACIJENT: Desni mi ponekad krvare, ali nemam krv u mokraći.
+LIJEČNIK: Današnja vrijednost međunarodnog normaliziranog omjera iznosi tri cijelih šest.
+PACIJENT: Je li to iznad željenog raspona?
+LIJEČNIK: Da, cilj je između dva i tri.
+PACIJENT: Prošli sam tjedan počeo uzimati antibiotik.
+LIJEČNIK: Antibiotik može pojačati učinak varfarina i povisiti rezultat.
+PACIJENT: Trebam li večeras preskočiti tabletu?
+LIJEČNIK: Večeras uzmite smanjenu dozu prema ovoj pisanoj uputi.
+PACIJENT: Kada trebam ponovno provjeriti krv?
+LIJEČNIK: Kontrolu napravite za tri dana ili ranije kod jačeg krvarenja.
+PACIJENT: U redu, pažljivo ću pratiti znakove krvarenja.

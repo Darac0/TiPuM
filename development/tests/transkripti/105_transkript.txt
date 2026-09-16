@@ -1,0 +1,12 @@
+LIJEČNIK: Kada je počela bol u donjem dijelu leđa?
+PACIJENT: Jučer nakon što sam podigao tešku kutiju.
+LIJEČNIK: Širi li se bol niz nogu ili ostaje u križima?
+PACIJENT: Ostaje u križima i jača kad se saginjem.
+LIJEČNIK: Imate li slabost nogu ili poteškoće s mokrenjem?
+PACIJENT: Ne, ništa od toga nisam primijetio.
+LIJEČNIK: Pregled ne pokazuje neurološki ispad ni znakove ozbiljne ozljede.
+PACIJENT: Trebam li napraviti rendgensku snimku?
+LIJEČNIK: Trenutačno nije potrebna jer nema upozoravajućih znakova.
+PACIJENT: Smijem li raditi ili moram strogo mirovati?
+LIJEČNIK: Krećite se umjereno, izbjegavajte teret i uzmite analgetik prema uputi.
+PACIJENT: U redu, javit ću se ako se pojavi slabost.

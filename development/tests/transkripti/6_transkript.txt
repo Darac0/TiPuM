@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Što se promijenilo s Vašim disanjem?
+PACIJENT: Posljednja dva tjedna češće kašljem, čujem piskanje i teže dišem kad idem uz stepenice.
+LIJEČNIK: Budite li se noću zbog kašlja ili nedostatka zraka?
+PACIJENT: Da, probudio sam se tri puta prošli tjedan, uglavnom pred jutro.
+LIJEČNIK: Koliko često koristite inhalator sa salbutamolom?
+PACIJENT: Gotovo svaki dan, ponekad dva puta dnevno. Prije mi je trebao samo jednom tjedno.
+LIJEČNIK: Uzimate li redovito kombinaciju budezonida i formoterola koju smo ranije propisali?
+PACIJENT: Uzimam jednu inhalaciju ujutro, ali večernju dozu često zaboravim.
+LIJEČNIK: Imate li sada bol u prsima ili teško govorite u cijelim rečenicama?
+PACIJENT: Ne. Mogu normalno govoriti i nemam bol u prsima.
+LIJEČNIK: Jesu li simptomi jači vani, uz travu ili tijekom čišćenja prašine?
+PACIJENT: Najgore je nakon košnje trave. Tada mi također suze oči i curi nos.
+LIJEČNIK: Provjerimo tehniku. Izdahnite, čvrsto obuhvatite usnik, duboko udahnite lijek i zadržite dah deset sekundi.
+PACIJENT: Mislim da sam prije udisao prebrzo i nisam zadržavao dah.
+LIJEČNIK: Redovita kontrolna terapija trebala bi smanjiti potrebu za salbutamolom i noćna buđenja.
+PACIJENT: Koji znakovi znače da moram odmah potražiti pomoć?
+LIJEČNIK: Odmah se javite ako ne možete govoriti, ako se gušenje brzo pogoršava ili salbutamol ne donosi olakšanje.
+PACIJENT: Razumijem. Postavit ću podsjetnik za večernju dozu.

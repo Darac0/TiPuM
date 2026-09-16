@@ -1,0 +1,12 @@
+LIJEČNIK: Osjećate li umor pri svakodnevnim aktivnostima?
+PACIJENT: Da, brzo se zadišem i često mi se vrti.
+LIJEČNIK: Hemoglobin iznosi sto dva grama po litri.
+PACIJENT: Znači li to da imam anemiju?
+LIJEČNIK: Da, a niska vrijednost feritina upućuje na manjak željeza.
+PACIJENT: Menstruacije su mi zadnjih mjeseci obilnije nego prije.
+LIJEČNIK: To može objasniti gubitak željeza, ali napravit ćemo dodatnu obradu.
+PACIJENT: Kako trebam uzimati tablete željeza?
+LIJEČNIK: Uzimajte jednu tabletu svaki drugi dan uz vitamin ce.
+PACIJENT: Čula sam da željezo može izazvati zatvor.
+LIJEČNIK: Može, zato pijte dovoljno vode i pratite probavne tegobe.
+PACIJENT: Dobro, ponovit ću krvnu sliku prema uputi.

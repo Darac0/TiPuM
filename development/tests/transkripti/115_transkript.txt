@@ -1,0 +1,12 @@
+LIJEČNIK: Koliko dugo Vas boli desno uho?
+PACIJENT: Od prekjučer, a noćas je bol postala jača.
+LIJEČNIK: Imate li temperaturu ili iscjedak iz uha?
+PACIJENT: Temperatura je bila trideset osam, ali iscjetka nema.
+LIJEČNIK: Jeste li ikada imali alergijsku reakciju na antibiotik?
+PACIJENT: Nakon penicilina dobio sam koprivnjaču i otežano disao.
+LIJEČNIK: To je važna neposredna alergija i peniciline morate izbjegavati.
+PACIJENT: Hoću li ipak trebati neki drugi antibiotik?
+LIJEČNIK: Prema pregledu odabrat ćemo lijek iz druge skupine.
+PACIJENT: Mogu li uzeti ibuprofen protiv boli?
+LIJEČNIK: Možete ako nemate želučani vrijed ni bolest bubrega.
+PACIJENT: Nemam, pa ću ga uzeti prema uputi.

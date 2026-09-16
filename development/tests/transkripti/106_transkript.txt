@@ -1,0 +1,12 @@
+LIJEČNIK: Kako se osjećate otkad uzimate levotiroksin?
+PACIJENT: Manje sam umorna, ali mi je još često hladno.
+LIJEČNIK: Uzimajte li tabletu natašte, prije doručka?
+PACIJENT: Da, uzimam pedeset mikrograma svako jutro.
+LIJEČNIK: Nalaz tireotropina iznosi pet cijelih jedan.
+PACIJENT: Je li potrebno povećati dozu?
+LIJEČNIK: Povećat ćemo je na sedamdeset pet mikrograma dnevno.
+PACIJENT: Mogu li novu dozu početi uzimati sutra?
+LIJEČNIK: Možete, ali nemojte je uzimati zajedno sa željezom ili kalcijem.
+PACIJENT: Kalcij obično uzimam uz ručak.
+LIJEČNIK: To je dovoljno razmaknuto. Kontrolu napravite za osam tjedana.
+PACIJENT: Dobro, zapisat ću novi raspored terapije.

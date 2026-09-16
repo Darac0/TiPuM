@@ -1,0 +1,12 @@
+LIJEČNIK: Dobar dan. Recite mi što Vas dovodi danas.
+PACIJENT: Već četiri dana kašljem, imam temperaturu i osjećam jaku slabost.
+LIJEČNIK: Kolika je bila najviša izmjerena temperatura?
+PACIJENT: Sinoć je bila trideset osam cijelih sedam stupnjeva.
+LIJEČNIK: Imate li otežano disanje, bol u prsima ili iskašljavate krv?
+PACIJENT: Ne, nemam bol i ne iskašljavam krv, ali nos mi je začepljen.
+LIJEČNIK: Pluća zvuče uredno, a ždrijelo je blago crveno.
+PACIJENT: Trebam li antibiotik ili dodatne pretrage?
+LIJEČNIK: Najvjerojatnije je virusna infekcija pa antibiotik zasad nije potreban.
+PACIJENT: Što mogu uzeti za temperaturu i kašalj?
+LIJEČNIK: Uzimajte paracetamol prema uputi, pijte dovoljno tekućine i odmarajte.
+PACIJENT: U redu. Javit ću se ako se disanje pogorša.

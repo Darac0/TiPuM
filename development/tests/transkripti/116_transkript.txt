@@ -1,0 +1,12 @@
+LIJEČNIK: Je li se zadnjih dana pojačala zaduha?
+PACIJENT: Da, sporije hodam i iskašljavam više žutog sekreta.
+LIJEČNIK: Imate li temperaturu ili bol u prsima?
+PACIJENT: Nemam temperaturu ni bol, samo teže dišem.
+LIJEČNIK: Koliko cigareta još pušite dnevno?
+PACIJENT: Smanjio sam na pet, ali nisam potpuno prestao.
+LIJEČNIK: Zasićenost kisikom iznosi devedeset tri posto.
+PACIJENT: Je li to opasno niska vrijednost?
+LIJEČNIK: Blago je snižena i trebamo pažljivo pratiti pogoršanje.
+PACIJENT: Trebam li češće koristiti bronhodilatator?
+LIJEČNIK: Privremeno ga koristite prema planu i javite se kod daljnjeg pogoršanja.
+PACIJENT: Razumijem i ponovno ću pokušati prestati pušiti.

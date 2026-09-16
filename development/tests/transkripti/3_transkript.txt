@@ -1,0 +1,18 @@
+LIJEČNIK: Dobar dan. Jeste li kod kuće redovito mjerili krvni tlak?
+PACIJENT: Jesam. Posljednjih sedam dana najčešće je bio oko sto pedeset osam kroz devedeset šest.
+LIJEČNIK: U koje doba dana ste ga mjerili?
+PACIJENT: Ujutro prije doručka i navečer prije spavanja, nakon pet minuta sjedenja.
+LIJEČNIK: Uzimate li amlodipin od pet miligrama svaki dan?
+PACIJENT: Većinom da, ali prošli sam tjedan zaboravio dvije doze.
+LIJEČNIK: Imate li glavobolju, bol u prsima, zadušenost ili smetnje vida?
+PACIJENT: Nemam bol u prsima ni smetnje vida, ali ponekad me navečer boli glava.
+LIJEČNIK: Jeste li primijetili oticanje gležnjeva otkako uzimate lijek?
+PACIJENT: Da, gležnjevi su mi malo otečeni navečer, osobito nakon dugog stajanja.
+LIJEČNIK: Koliko soli obično dodajete hrani i koliko se krećete?
+PACIJENT: Vjerojatno jedem previše slanog. Hodam dvadesetak minuta tri puta tjedno.
+LIJEČNIK: Današnja vrijednost je sto pedeset četiri kroz devedeset četiri, što je i dalje iznad cilja.
+PACIJENT: Hoćete li mi povećati dozu?
+LIJEČNIK: Prvo ćemo provjeriti bubrežnu funkciju i elektrolite te razgovarati o prilagodbi terapije.
+PACIJENT: Trebam li nastaviti voditi dnevnik mjerenja?
+LIJEČNIK: Da. Mjerite tlak ujutro i navečer sedam dana te zapišite svaku vrijednost i puls.
+PACIJENT: U redu, donijet ću dnevnik na sljedeću kontrolu.

@@ -1,0 +1,21 @@
+Liječnik: Dobar dan. Koje tegobe imate?
+Pacijent: Dobar dan. Već dva dana me peče kad gren mokrit, a moran poć jako često.
+Liječnik: Je li mokraća promijenila boju ili ste primijetili krv?
+Pacijent: Mokraća je mutna, ma nis videla krv.
+Liječnik: Imate li bol u slabinama, zimicu ili izrazitu slabost?
+Pacijent: Ne boli me va križima i ni me tresla zimica. Samo me pritišće nisko sprida.
+Liječnik: Jeste li trudni ili ste ranije imali bolest bubrega?
+Pacijent: Nis trudna i nis imela problema z bubrezima.
+Liječnik: Jeste li već uzeli antibiotik ili neki drugi lijek?
+Pacijent: Nis uzela nič. Samo san pila više vode i čaj.
+Liječnik: Najprije ćemo uzeti uzorak koji se u nalazu označava kao urina, a prema potrebi učiniti cultura urinae.
+Pacijent: Moram li dugo čekat nalaz?
+Liječnik: U ovom testnom scenariju brzi nalaz podupire dijagnozu cystitis acuta; pojam haematuria nije potvrđen.
+Pacijent: Ča ću dobit od terapije?
+Liječnik: Navodi se fosfomicin od tri grama kao dosis unica prema propisanoj uputi.
+Pacijent: Kako ću to popit?
+Liječnik: Sadržaj vrećice se otapa u vodi i uzima nakon pražnjenja mokraćnog mjehura, točno prema uputi za lijek.
+Pacijent: Kad se moran opet javit?
+Liječnik: Javite se ranije ako nastanu bol u slabinama, visoka temperatura, povraćanje ili pogoršanje općeg stanja.
+Pacijent: Dobro, učinit ću tako. Hvala, doviđenja.
+Liječnik: Doviđenja.

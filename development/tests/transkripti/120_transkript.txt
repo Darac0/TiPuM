@@ -1,0 +1,12 @@
+LIJEČNIK: Kada najčešće osjetite vrtoglavicu?
+PACIJENT: Kad naglo ustanem iz kreveta ili sa stolice.
+LIJEČNIK: Jeste li pali ili izgubili svijest?
+PACIJENT: Nisam izgubio svijest, ali sam se jednom morao uhvatiti za zid.
+LIJEČNIK: Uzimajte tri lijeka za tlak i tabletu za izmokravanje.
+PACIJENT: Da, sve ih popijem zajedno nakon doručka.
+LIJEČNIK: Tlak pri ustajanju pada na sto kroz šezdeset.
+PACIJENT: Možda je zato najgore neposredno nakon ustajanja.
+LIJEČNIK: Vjerojatno. Smanjit ćemo jutarnju dozu jednog lijeka.
+PACIJENT: Trebam li sporije ustajati i više piti?
+LIJEČNIK: Da, ustajte postupno i pratite tlak sljedećih sedam dana.
+PACIJENT: Zapisat ću vrijednosti i donijeti popis svih lijekova.

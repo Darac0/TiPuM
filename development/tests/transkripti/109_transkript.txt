@@ -1,0 +1,12 @@
+LIJEČNIK: Što ste jeli prije pojave osipa?
+PACIJENT: Pojeo sam kolač s orasima, a zatim su me zasvrbjele usne.
+LIJEČNIK: Jeste li imali oticanje jezika ili otežano disanje?
+PACIJENT: Ne, samo crvenilo, svrbež i blago oticanje usana.
+LIJEČNIK: Koliko je vremena prošlo do pojave simptoma?
+PACIJENT: Možda deset minuta, dogodilo se vrlo brzo.
+LIJEČNIK: To upućuje na neposrednu alergijsku reakciju na orašaste plodove.
+PACIJENT: Trebam li nositi injekciju adrenalina?
+LIJEČNIK: Nakon alergološke obrade procijenit ćemo potrebu za autoinjektorom.
+PACIJENT: Do tada ću potpuno izbjegavati orahe.
+LIJEČNIK: Ako nastane gušenje ili oticanje jezika, odmah zovite hitnu službu.
+PACIJENT: Razumijem i upozorit ću obitelj na to.

@@ -1,0 +1,12 @@
+LIJEČNIK: Koliko često posljednjih dana trebate inhalator za olakšanje?
+PACIJENT: Gotovo svaku večer, osobito nakon trčanja.
+LIJEČNIK: Budite li se noću zbog kašlja ili piskanja?
+PACIJENT: Da, probudim se otprilike dva puta tjedno.
+LIJEČNIK: Pokažite mi kako koristite inhalator.
+PACIJENT: Prvo udahnem, a zatim pritisnem spremnik.
+LIJEČNIK: Spremnik trebate pritisnuti na početku sporog dubokog udaha.
+PACIJENT: Znači dosad lijek vjerojatno nisam dobro udahnuo.
+LIJEČNIK: Tako je. Dodat ćemo i protuupalni inhalator svako jutro.
+PACIJENT: Trebam li nakon njega isprati usta?
+LIJEČNIK: Da, isperite usta vodom nakon svake primjene.
+PACIJENT: Razumijem i vježbat ću pravilnu tehniku.

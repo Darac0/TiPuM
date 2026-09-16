@@ -1,0 +1,21 @@
+Liječnik: Dobar dan. Što ste primijetili na stopalu?
+Pacijent: Dobar dan. Već desetak dan mi se među prstima na livoj nozi ljušti koža i jako svrbi.
+Liječnik: Na kojem je dijelu promjena najizraženija?
+Pacijent: Najviše je između četvrtoga i petoga prsta, a koža zna i popucat.
+Liječnik: Jesu li tegobe jače nakon nošenja zatvorene obuće?
+Pacijent: Jesu. Cili dan san u zatvorenim postolima, a posli treninga su mi noge skroz mokre.
+Liječnik: Jesu li nokti promijenili boju ili se promjena pojavila i na drugom stopalu?
+Pacijent: Nokti su dobri, a na drugoj nozi nima ništa.
+Liječnik: Jeste li već primijenili kakvu mast ili lijek?
+Pacijent: Nisan. Namaza san samo običnu kremu, ma nije puno pomogla.
+Liječnik: U opisu pregleda navodi se crvena i ljuskava cutis inter digitos, uz izražen pruritus.
+Pacijent: Je li to gljivica?
+Liječnik: U ovom testnom scenariju nalaz odgovara dijagnozi tinea pedis na lijevom stopalu.
+Pacijent: Ča moran mazat i koliko dugo?
+Liječnik: Na uputi će locus affectus označavati zahvaćeno područje. U scenariju se terbinafin nanosi tanko mane et vespere prema propisanoj uputi.
+Pacijent: Moram li odvojit šugaman i čarape?
+Liječnik: Koristite vlastiti ručnik, svakodnevno mijenjajte čarape i nakon pranja dobro osušite prostor između prstiju.
+Pacijent: Mogu li i dalje ić na trening?
+Liječnik: Možete ako zaštitite stopalo i održavate ga suhim. Ako se promjena širi, nastanu bolne pukotine ili gnojni iscjedak, potrebna je kontrola.
+Pacijent: Dobro, činit ću tako. Fala Vam, doviđenja.
+Liječnik: Doviđenja.

@@ -1,0 +1,12 @@
+LIJEČNIK: U kojem ste tjednu trudnoće?
+PACIJENT: Prema zadnjoj menstruaciji u devetom tjednu.
+LIJEČNIK: Koliko često povraćate tijekom dana?
+PACIJENT: Tri ili četiri puta, uglavnom rano ujutro.
+LIJEČNIK: Možete li zadržati tekućinu i manje obroke?
+PACIJENT: Vodu mogu, ali mi veći obroci izazivaju mučninu.
+LIJEČNIK: Nemate znakove dehidracije ni značajan gubitak težine.
+PACIJENT: Postoji li siguran lijek protiv mučnine?
+LIJEČNIK: Najprije pokušajte s manjim obrocima i vitaminom be šest.
+PACIJENT: Pomoći će mi ako jedem prije ustajanja?
+LIJEČNIK: Nekim trudnicama pomogne suhi kreker prije ustajanja iz kreveta.
+PACIJENT: Pokušat ću i javiti se ako ne mogu piti.

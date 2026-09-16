@@ -1,0 +1,12 @@
+LIJEČNIK: Kako izgleda glavobolja koju imate?
+PACIJENT: Pulsira s desne strane i smeta mi svjetlo.
+LIJEČNIK: Pojave li se prije boli smetnje vida?
+PACIJENT: Da, vidim bljeskove i cik-cak linije oko dvadeset minuta.
+LIJEČNIK: Imate li slabost ruke, smetnje govora ili gubitak svijesti?
+PACIJENT: Ne, to se nikada nije dogodilo.
+LIJEČNIK: Opis odgovara migreni s vizualnom aurom.
+PACIJENT: Napadaj se javlja otprilike tri puta mjesečno.
+LIJEČNIK: Vodite dnevnik glavobolje i uzmite lijek čim bol počne.
+PACIJENT: Primijetio sam da je nedostatak sna čest okidač.
+LIJEČNIK: Redovit san i obroci mogu smanjiti broj napadaja.
+PACIJENT: Dobro, počet ću bilježiti simptome i okidače.

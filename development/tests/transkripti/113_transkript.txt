@@ -1,0 +1,12 @@
+LIJEČNIK: Kada se pojavio osip na rukama?
+PACIJENT: Prije tjedan dana nakon korištenja novog sredstva za čišćenje.
+LIJEČNIK: Svrbi li osip i pojavljuju li se mjehurići?
+PACIJENT: Jako svrbi, koža je crvena i mjestimice ispucana.
+LIJEČNIK: Je li osip prisutan na drugim dijelovima tijela?
+PACIJENT: Ne, nalazi se samo na šakama i zapešćima.
+LIJEČNIK: Vjerojatno se radi o kontaktnom dermatitisu.
+PACIJENT: Moram li potpuno prestati koristiti to sredstvo?
+LIJEČNIK: Da, izbjegavajte ga i pri radu nosite zaštitne rukavice.
+PACIJENT: Mogu li na kožu stavljati običnu hidratantnu kremu?
+LIJEČNIK: Možete, a kratko ćemo dodati i blagu kortikosteroidnu kremu.
+PACIJENT: U redu, pratit ću širi li se crvenilo.
